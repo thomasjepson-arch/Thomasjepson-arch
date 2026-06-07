@@ -41,7 +41,7 @@ An AI-powered SMS agent for Salesforce Data Cloud GTM teams. It monitors 8 indus
 
 ## 📫 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/tommyjepson)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomasjepson/)
 
 ---
 
