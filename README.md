@@ -1,4 +1,4 @@
-# Hi, I'm Tommy Jepson 👋
+# Hi, I'm Thomas Jepson 👋
 
 **GTM Leader · Salesforce Data Cloud · AI Builder**
 
