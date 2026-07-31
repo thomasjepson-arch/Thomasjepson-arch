@@ -19,8 +19,6 @@ Most people position a CDP from a slide. I wanted to know how one actually works
 I rebuilt the core of Data 360 from scratch in plain SQL: identity resolution, calculated
 insights, segment governance, consent enforcement, journey orchestration.
 
-It turns out you argue about customer data differently once you've had to write the
-survivorship rules yourself.
 
 ---
 
